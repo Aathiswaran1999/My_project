@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+<title> Learn English </title>
+<!-- <link rel="stylesheet" href="css/myweb.css"> -->
+</head>
+<body>
+
+<div id="container">
+	<header><img src="images/boy-with-book.png" id="header-img">Learn <span id="eng">English</span> </header>
+	<div id="img">
+	<h1> English online: 100% teacher-led course</h1>
+	<p>Improve your English skills and confidence.Live classes and interactive lessons online.</p>
+	</div>
+	<nav>
+		<ol>
+			<a href=""><li>Home</li><a>
+			<a href=""><li>Online courses</li><a>
+			<a href=""><li>skills</li><a>
+			<a href=""><li>Grammar</li><a>
+			<a href=""><li> Vocabulary</li><a>
+			<a href=""><li id="li-bg">About us</li></a>
+		</ol>
+	</nav>
+	<section id="section1">
+		<article id="article1">
+		<h2 id="main-head"> Welcome to Learn English</h2>
+		<p>Learn English online and improve your skills through our high-quality courses and resources – all designed for adult language learners. Everything you find here has been specially created by the British Council, the world's English teaching experts.</p>
+		<h2 id="h2-1">Beyond Grammar and Spelling</h2>
+		<p>From grammar and spelling to style and tone, learn English’s suggestions are comprehensive, helping you communicate effectively and as you intend.</p>
+		<h2 id="h2-2">Brilliant Writing Awaits</h2>
+		<p>Get started for free and find out what you can accomplish with the power of Grammarly at your fingertips.</p>
+		<h3>Discover your current English level by taking our free online English test</h3>
+		<a href=""> Discover your level<a>
+		</article>
+		<aside>
+		<div class="div1">
+			<img src="images/aside-img1.jpeg" class="div-img">
+			<h2>Live online classes</h2>
+			<p>Interactive group classes with expert teachers.</p>
+			<p>Free <mark>7-day </mark>trial</p>
+			<a href="">Learn more</a>
+		</div>
+		<div class="div1">
+			<img src="images/aside-img2.jpg" class="div-img">
+			<h2>Self-study online courses</h2>
+			<p>Unlimited access to online English courses</p>
+			<p>for <del>&#8377;. 1499</del>  <mark>&#8377; 999</mark> per month</p>
+			<a href="">Learn more</a>
+		</div>
+		<div class="div1">
+			<img src="images/aside-img3.jpeg" class="div-img">
+			<h2>Personal online tutoring</h2>
+			<p>Online one-to-one English tutoring – enjoy your first session for only <mark>&#8377; 99</mark></p>
+			<a href="">Learn more</a>
+		</div>
+		</aside>
+		
+	</section>
+	<section id="section2">
+		<h2>Enjoy our free resources</h2>
+		<p>Explore our site to improve your English with our bite-sized lessons, quizzes and games. With our varied selection of learning materials, you can practise your English for free.</p>
+		<article>
+				<ul>
+					<li>
+						<h3>Skills</h3>
+						<p>Improve your English speaking, listening, reading and writing</p>
+					</li>
+					<li>
+						<h3>Grammer</h3>
+						<p>Practise verb tenses and grammar rules</p>
+					</li>
+					<li>
+						<h3>Vocabulary</h3>
+						<p>Learn new words to understand and express yourself clearly</p>
+					<li>
+				</ul>
+	</section>
+	
+	
+</div>
+<footer></footer>
+</body>
+</html>
